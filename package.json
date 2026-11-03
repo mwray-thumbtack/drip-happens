@@ -1,0 +1,10 @@
+{
+  "name": "drip-happens-plumbing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A funny fictional plumbing service website.",
+  "scripts": {
+    "dev": "python3 -m http.server 4173 --bind 127.0.0.1",
+    "start": "python3 -m http.server 4173 --bind 127.0.0.1"
+  }
+}
